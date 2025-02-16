@@ -2,7 +2,7 @@
 Art3mis Oracle is a Web3 AI-powered onchain tarot reading platform built on Aptos. The platform combines ancient divination practices with modern AI to offer personalized tarot readings directly on the blockchain.
 
 ## 🌐 Live Demo
-[Link to live testnet site](https://www.art3mis.xyz/)
+[Link to live testnet site](https://www.move-art3mis.vercel.app/)
 
 ## 🔮 Features
 
