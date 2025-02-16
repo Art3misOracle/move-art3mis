@@ -1,0 +1,22 @@
+[package]
+name = "tarot"
+version = "1.0.0"
+upgrade_policy = "compatible"
+
+[addresses]
+admin = "_"
+treasury = "_"
+
+[dependencies.AptosFramework]
+#git = "https://github.com/aptos-labs/aptos-core"
+#rev = "testnet"
+git = "https://github.com/movementlabsxyz/aptos-core"
+rev = "movement"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dependencies.AptosTokenObjects]
+#git = "https://github.com/aptos-labs/aptos-core"
+#rev = "testnet"
+git = "https://github.com/movementlabsxyz/aptos-core"
+rev = "movement"
+subdir = "aptos-move/framework/aptos-token-objects"
