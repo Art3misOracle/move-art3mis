@@ -1,0 +1,20 @@
+{
+  "../node_modules/.pnpm/@atomrigslab+aptos-wallet-adapter@0.1.21_@aptos-labs+ts-sdk@1.30.0/node_modules/@atomrigslab/aptos-wallet-adapter/dist/index.es.js -> ./index-DRmafxZ_.mjs": {
+    "id": "../node_modules/.pnpm/@atomrigslab+aptos-wallet-adapter@0.1.21_@aptos-labs+ts-sdk@1.30.0/node_modules/@atomrigslab/aptos-wallet-adapter/dist/index.es.js -> ./index-DRmafxZ_.mjs",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_atomrigslab_aptos-wallet-adapter_0_1_21__aptos-labs_ts-s-ec6108.js"
+    ]
+  },
+  "app/page.tsx -> @/components/FireLeft": {
+    "id": "app/page.tsx -> @/components/FireLeft",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_FireLeft_tsx.js"
+    ]
+  },
+  "app/page.tsx -> @/components/FireRight": {
+    "id": "app/page.tsx -> @/components/FireRight",
+    "files": [
+      "static/chunks/_app-pages-browser_src_components_FireRight_tsx.js"
+    ]
+  }
+}
